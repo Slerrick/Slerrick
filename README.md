@@ -11,13 +11,12 @@ I am glad to welcome you to my GitHub page!
 
 •   Swimming
 •   TypeScript
-•   Python
+•   GameDev UE5(BP)
 
 **I plan to study:**
 
 •   Deeper learning of TypeScript and Python
 •   Web application development
-•   3D modeling
 
 **I want to cooperate:**
 
@@ -25,25 +24,23 @@ I am open to collaboration on interesting projects related to development, swimm
 
 **How to contact us:**
 
-•   Here on GitHub! Write to issues or pull requests.
+•  sker.msmk@gmail.com
 
 ---
 
-**My 3D models (for reference and possible use):**
-
 •   **Tables:**
-    •   [Simple Table Model (Sketchfab)](Put Sketchfab link here)
-    •   [Wooden Table (Sketchfab)](Put Sketchfab link here)
-    •   [Round Table (CGTrader - FREE)](Put CGTrader link here)
+    •   [Simple Table Model (Sketchfab)](https://sketchfab.com/3d-models/654230055-table-model-6492708c7b3e4125a180a20048f9c49b)
+    •   [Wooden Table (Sketchfab)](https://sketchfab.com/3d-models/woodtable-9c5524d8f7ac48e2a276976ca6855bf3)
+    •   [Round Table (CGTrader - FREE)](https://www.cgtrader.com/free-3d-models/furniture/table/round-table--8)
 
 •   **Chairs:**
-    •   [Modern Chair (CGTrader - FREE)](Put CGTrader link here)
+    •   [Modern Chair (CGTrader - FREE)](https://www.cgtrader.com/free-3d-models/furniture/chair/0139-modern-chair)
 
 •   **Other:**
-    •   [Asset from BlenderKit (BKit)](Put BlenderKit link here) - You must install BlenderKit to use.
-    •   [OLED TV (CGTrader)](Put CGTrader link here)
-    •   [Monitor (CGTrader)](Put CGTrader link here)
-    •   [Glass Door (CGTrader)](Put CGTrader link here)
-    •   [Glass Doors (Sketchfab)](Put Sketchfab link here)
+    •   [Asset from BlenderKit (BKit)](https://www.blenderkit.com/get-blenderkit/a89e91fd-4ca8-4fbf-b86f-f7672b476c6c/) - You must install BlenderKit to use.
+    •   [OLED TV (CGTrader)](https://www.cgtrader.com/items/2983788/download-page)
+    •   [Monitor (CGTrader)](https://www.cgtrader.com/items/3818598/download-page)
+    •   [Glass Door (CGTrader)](https://www.cgtrader.com/items/3827842/download-page)
+    •   [Glass Doors (Sketchfab)](https://sketchfab.com/3d-models/glass-doors-e0ff1a543cb34979999d2fd87843203e)
 
-Thank you for your attention!
+**Thank you for your attention!**
