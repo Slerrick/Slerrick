@@ -44,5 +44,6 @@ I am open to collaboration on interesting projects related to development, swimm
     •   [Glass Doors (Sketchfab)](https://sketchfab.com/3d-models/glass-doors-e0ff1a543cb34979999d2fd87843203e)
     •   [Coca-cola (CGTrader)](https://www.cgtrader.com/items/3890956/download-page)
     •   [USB (CGTrader)](https://www.cgtrader.com/items/4301493/download-page)
+    •   [City (CGTrader)](https://www.cgtrader.com/items/4999711/download-page)
 ****[LIBRARY_CC0](https://github.com/madjin/awesome-cc0)****
 **Thank you for your attention!**
