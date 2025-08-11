@@ -5,7 +5,7 @@ I am glad to welcome you to my GitHub page!
 **About me:**
 
 •   I am interested in swimming and programming, especially TypeScript and Python.
-•   Currently studying in the 9th grade.
+•   Currently studying in the 10th grade.
 
 **Interests and skills:**
 
