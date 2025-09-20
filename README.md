@@ -11,7 +11,7 @@ I am glad to welcome you to my GitHub page!
 
 •   Swimming
 •   TypeScript
-•   GameDev UE5(BP)
+•   GameDev UE5(BP + BaseCPP)
 
 **I plan to study:**
 
