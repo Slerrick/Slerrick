@@ -38,13 +38,6 @@ I am open to collaboration on interesting projects related to development, swimm
 
 •   **Other:**
     •   [Asset from BlenderKit (BKit)](https://www.blenderkit.com/get-blenderkit/a89e91fd-4ca8-4fbf-b86f-f7672b476c6c/) - You must install BlenderKit to use.
-    •   [OLED TV (CGTrader)](https://www.cgtrader.com/items/2983788/download-page)
-    •   [Monitor (CGTrader)](https://www.cgtrader.com/items/3818598/download-page)
-    •   [Glass Door (CGTrader)](https://www.cgtrader.com/items/3827842/download-page)
     •   [Glass Doors (Sketchfab)](https://sketchfab.com/3d-models/glass-doors-e0ff1a543cb34979999d2fd87843203e)
-    •   [Coca-cola (CGTrader)](https://www.cgtrader.com/items/3890956/download-page)
-    •   [USB (CGTrader)](https://www.cgtrader.com/items/4301493/download-page)
-    •   [City (CGTrader)](https://www.cgtrader.com/items/4999711/download-page)
-    •   [BP_Grab](https://blueprintue.com/blueprint/qxto9cog/)
 **[LIBRARY_CC0](https://github.com/madjin/awesome-cc0)**
 **Thank you for your attention!**
